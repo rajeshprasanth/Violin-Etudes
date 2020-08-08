@@ -5,3 +5,6 @@ addons:
   apt:
     packages:
       - lilypond
+
+install:
+      - ./build_all.sh Charles_Dancla
