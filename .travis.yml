@@ -1,4 +1,7 @@
-before_install:
-  - sudo apt-get update
-  - sudo apt-get -y install lilypond
-  - pwd
+language: bash
+dist: xenial
+
+addons:
+  apt:
+    packages:
+      - lilypond
