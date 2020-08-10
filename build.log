@@ -1,0 +1,1566 @@
+--------------------------------------------------------------
+Build logs for Charles_Dancla/Opus_84
+Build Date : Sun Aug  9 00:45:08 IST 2020
+--------------------------------------------------------------
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_1.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_1.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_1.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+Layout output to `/tmp/lilypond-xw5G4a'...
+Converting to `36_Études_mélodiques_op84_no_1.pdf'...
+Deleting `/tmp/lilypond-xw5G4a'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_1.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_1.midi': No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Dancla/Opus_84
+Build Date : Sun Aug  9 00:45:24 IST 2020
+--------------------------------------------------------------
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_1.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_1.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_1.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+Layout output to `/tmp/lilypond-drCEA3'...
+Converting to `36_Études_mélodiques_op84_no_1.pdf'...
+Deleting `/tmp/lilypond-drCEA3'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_1.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_1.midi': No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Dancla/Opus_84
+Build Date : Sun Aug  9 00:45:32 IST 2020
+--------------------------------------------------------------
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_1.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_1.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_1.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+Layout output to `/tmp/lilypond-Zt0dAK'...
+Converting to `36_Études_mélodiques_op84_no_1.pdf'...
+Deleting `/tmp/lilypond-Zt0dAK'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_1.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_1.midi': No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /192-163-218-190
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /1.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /2017-09-03-Analyze
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /and
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /plot
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /band
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /structures.ipynb
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /251480560-Violin-Open-String-Exercises-for-Beginners.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /accounterods.ods
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /aflow_qe_config
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Arduino
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Assingment-III.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /authkey
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /authkey.pub
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /bookmarks.html
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /box_upload
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /CaMgSi.cif
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /_----_(Chapter_9_Alloy_Systems_Phase_Diagrams_and_Phase_Transformations_).pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Composer-Untitled.ly
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Composer-Untitled.midi
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Composer-Untitled.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /cSGO
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /d41586-019-00084-2.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Databases.db
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Data
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Template-autonomous
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /(1)-Dean
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /research.xls
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /dead.letter
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Desktop
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /devel
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Documents
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Downloads
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /dtlstict20094_en.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /e
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /EQMATRIX
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /fox
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /genph.sh
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Germination.ipynb
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /github
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /git_repository
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Guidelines_Inspire_Internship_Science_Camps.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /gulptmp_4_1
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /hp-check.log
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /hp-setup.logfile
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /htcondor
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /ibm
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /ibm-claims
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /impt
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /inp.in
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /inp.in.DONE
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /input_tmp.in
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /INSOD
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /INSPIRE_Academy_Panel_Report_2010.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /INSPIRE
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /INTERNSHIP
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /-2.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Internship_online_proposal.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /iso.log
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /kodi_crashlog-20190306_095406.log
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /kodi_crashlog-20190409_111519.log
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /kodi_crashlog-20190415_152253.log
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /kodi_crashlog-20200517_024137.log
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /list_of_mentors.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /log.lammps
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Maildir
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /mozilla.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Music
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /notebook.tex
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /NSS
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /report-2017-18.docx
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /octave
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /octave-workspace
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /OPERATORS
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /OUTSOD
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Pictures
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Program_Coordinators_Feedback_Form.pdf
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /pseudo
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Public
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /qe_workflow_mgr_logs
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /R
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /SGO
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /sod
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /SriLanka-1.doc
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /startrek.py
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /startrek.py.1
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /SUPERCELL
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Templates
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /test
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /The
+Build Date : Sun Aug  9 01:15:02 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Electronic
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Project
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Proposal
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Management
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /System,
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /For
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /SERB.html
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /thermal-mechanical-and-dielectric-studies-on-thin-films-of-ethylene-vinyl-acetate-copolymer-with-varying-concentration-o.pdf
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /tnpc
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Tutorials
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Untitled.ipynb
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /USPEX_TESTS
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Videos
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /VirtualBox
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /VMs
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /vmboxshare
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Web-based_machine_learning_models_for_real-time_sc.pdf
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /WoeUSB
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /workspace
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /X-Plane
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Installer
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Log.txt
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /xtalcalculator
+Build Date : Sun Aug  9 01:15:03 IST 2020
+--------------------------------------------------------------
+/home/rajeshprashanth/Desktop/re-engraving/build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Dancla/Opus_84
+Build Date : Sun Aug  9 01:16:17 IST 2020
+--------------------------------------------------------------
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_1.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_1.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_1.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+Layout output to `/tmp/lilypond-PXtFl2'...
+Converting to `36_Études_mélodiques_op84_no_1.pdf'...
+Deleting `/tmp/lilypond-PXtFl2'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_1.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_1.midi': No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /192-163-218-190
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /1.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /2017-09-03-Analyze
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /and
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /plot
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /band
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /structures.ipynb
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /251480560-Violin-Open-String-Exercises-for-Beginners.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /accounterods.ods
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /aflow_qe_config
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Arduino
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Assingment-III.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /authkey
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /authkey.pub
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /bookmarks.html
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /box_upload
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /CaMgSi.cif
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /_----_(Chapter_9_Alloy_Systems_Phase_Diagrams_and_Phase_Transformations_).pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Composer-Untitled.ly
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Composer-Untitled.midi
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Composer-Untitled.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /cSGO
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /d41586-019-00084-2.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Databases.db
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Data
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Template-autonomous
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /(1)-Dean
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /research.xls
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /dead.letter
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Desktop
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /devel
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Documents
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Downloads
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /dtlstict20094_en.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /e
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /EQMATRIX
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /fox
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /genph.sh
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Germination.ipynb
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /github
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /git_repository
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Guidelines_Inspire_Internship_Science_Camps.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /gulptmp_4_1
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /hp-check.log
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /hp-setup.logfile
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /htcondor
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /ibm
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /ibm-claims
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /impt
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /inp.in
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /inp.in.DONE
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /input_tmp.in
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /INSOD
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /INSPIRE_Academy_Panel_Report_2010.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /INSPIRE
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /INTERNSHIP
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /-2.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Internship_online_proposal.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /iso.log
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /kodi_crashlog-20190306_095406.log
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /kodi_crashlog-20190409_111519.log
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /kodi_crashlog-20190415_152253.log
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /kodi_crashlog-20200517_024137.log
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /list_of_mentors.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /log.lammps
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Maildir
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /mozilla.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Music
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /notebook.tex
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /NSS
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /report-2017-18.docx
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /octave
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /octave-workspace
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /OPERATORS
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /OUTSOD
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Pictures
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Program_Coordinators_Feedback_Form.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /pseudo
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Public
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /qe_workflow_mgr_logs
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /R
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /SGO
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /sod
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /SriLanka-1.doc
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /startrek.py
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /startrek.py.1
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /SUPERCELL
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Templates
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /test
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /The
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Electronic
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Project
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Proposal
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Management
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /System,
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /For
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /SERB.html
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /thermal-mechanical-and-dielectric-studies-on-thin-films-of-ethylene-vinyl-acetate-copolymer-with-varying-concentration-o.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /tnpc
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Tutorials
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Untitled.ipynb
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /USPEX_TESTS
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Videos
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /VirtualBox
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /VMs
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /vmboxshare
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Web-based_machine_learning_models_for_real-time_sc.pdf
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /WoeUSB
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /workspace
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /X-Plane
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Installer
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /Log.txt
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for /xtalcalculator
+Build Date : Mon Aug 10 22:30:20 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Danca/build_all.sh
+Build Date : Mon Aug 10 22:30:31 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Danca/build.log
+Build Date : Mon Aug 10 22:30:31 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Danca/Charles_Dancla
+Build Date : Mon Aug 10 22:30:31 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Danca/Musescore_files
+Build Date : Mon Aug 10 22:30:31 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Danca/originals
+Build Date : Mon Aug 10 22:30:31 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Danca/repos_content
+Build Date : Mon Aug 10 22:30:31 IST 2020
+--------------------------------------------------------------
+./build_all.sh: line 16: ./build.sh: No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Dancla/Opus_84
+Build Date : Mon Aug 10 22:30:37 IST 2020
+--------------------------------------------------------------
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_1.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_1.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_1.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+Layout output to `/tmp/lilypond-kVIAhS'...
+Converting to `36_Études_mélodiques_op84_no_1.pdf'...
+Deleting `/tmp/lilypond-kVIAhS'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_1.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_1.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_2.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_2.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_2.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-OXuzDp'...
+Converting to `36_Études_mélodiques_op84_no_2.pdf'...
+Deleting `/tmp/lilypond-OXuzDp'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_2.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_2.midi': No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Dancla/Opus_84
+Build Date : Mon Aug 10 22:31:21 IST 2020
+--------------------------------------------------------------
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_1.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_1.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_1.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+Layout output to `/tmp/lilypond-bDuVq1'...
+Converting to `36_Études_mélodiques_op84_no_1.pdf'...
+Deleting `/tmp/lilypond-bDuVq1'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_1.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_1.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_2.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_2.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_2.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-ud2QO0'...
+Converting to `36_Études_mélodiques_op84_no_2.pdf'...
+Deleting `/tmp/lilypond-ud2QO0'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_2.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_2.midi': No such file or directory
+--------------------------------------------------------------
