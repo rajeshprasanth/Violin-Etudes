@@ -3,17 +3,25 @@ Charles_Dancla
     ├── build.sh
     ├── lilypond
     │   ├── 36_Études_mélodiques_op84_no_1.ly
-    │   └── 36_Études_mélodiques_op84_no_2.ly
+    │   ├── 36_Études_mélodiques_op84_no_2.ly
+    │   ├── 36_Études_mélodiques_op84_no_3.ly
+    │   └── 36_Études_mélodiques_op84_no_4.ly
     ├── midi
     ├── mp3
     ├── Musescore
     │   ├── 36_Études_mélodiques_op84_no_1.mscz
-    │   └── 36_Études_mélodiques_op84_no_2.mscz
+    │   ├── 36_Études_mélodiques_op84_no_2.mscz
+    │   ├── 36_Études_mélodiques_op84_no_3.mscz
+    │   └── 36_Études_mélodiques_op84_no_4.mscz
     ├── pdf
     │   ├── 36_Études_mélodiques_op84_no_1.pdf
-    │   └── 36_Études_mélodiques_op84_no_2.pdf
+    │   ├── 36_Études_mélodiques_op84_no_2.pdf
+    │   ├── 36_Études_mélodiques_op84_no_3.pdf
+    │   └── 36_Études_mélodiques_op84_no_4.pdf
     └── src
         ├── 36_Études_mélodiques_op84_no_1.musicxml
-        └── 36_Études_mélodiques_op84_no_2.musicxml
+        ├── 36_Études_mélodiques_op84_no_2.musicxml
+        ├── 36_Études_mélodiques_op84_no_3.musicxml
+        └── 36_Études_mélodiques_op84_no_4.musicxml
 
-7 directories, 9 files
+7 directories, 17 files
