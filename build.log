@@ -3203,3 +3203,869 @@ Success: compilation successfully completed
 mv: cannot stat '36_Études_mélodiques_op84_no_4.mp3': No such file or directory
 mv: cannot stat '36_Études_mélodiques_op84_no_4.midi': No such file or directory
 --------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Dancla/Opus_84
+Build Date : Tue Aug 18 00:24:44 IST 2020
+--------------------------------------------------------------
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_1.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_1.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_1.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+Layout output to `/tmp/lilypond-aoY2rF'...
+Converting to `36_Études_mélodiques_op84_no_1.pdf'...
+Deleting `/tmp/lilypond-aoY2rF'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_1.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_1.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_2.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_2.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_2.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-gzgoGH'...
+Converting to `36_Études_mélodiques_op84_no_2.pdf'...
+Deleting `/tmp/lilypond-gzgoGH'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_2.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_2.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_3.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_3.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_3.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][48]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-yR4dBG'...
+Converting to `36_Études_mélodiques_op84_no_3.pdf'...
+Deleting `/tmp/lilypond-yR4dBG'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_3.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_3.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_4.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=12.00>
+
+  In: <measure width=223.83 number=3>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-5.00 default-x=64.56>
+
+  In: <measure width=223.83 number=3>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=12.00>
+
+  In: <measure width=188.04 number=9>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-5.00 default-x=69.66>
+
+  In: <measure width=188.04 number=9>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=12.00>
+
+  In: <measure width=181.34 number=17>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=67.45>
+
+  In: <measure width=181.34 number=17>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=49.07>
+
+  In: <measure width=198.26 number=19>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=97.86>
+
+  In: <measure width=198.26 number=19>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=12.00>
+
+  In: <measure width=169.59 number=21>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-5.00 default-x=63.56>
+
+  In: <measure width=169.59 number=21>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-30.00 default-x=12.00>
+
+  In: <measure width=188.80 number=23>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-45.00 default-x=68.69>
+
+  In: <measure width=188.80 number=23>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=5.00 default-x=12.00>
+
+  In: <measure width=180.28 number=28>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=0.00 default-x=75.13>
+
+  In: <measure width=180.28 number=28>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=83.24>
+
+  In: <measure width=179.92 number=29>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-20.00 default-x=146.10>
+
+  In: <measure width=179.92 number=29>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=75.92>
+
+  In: <measure width=162.77 number=35>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=132.28>
+
+  In: <measure width=162.77 number=35>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-5.00 default-x=12.00>
+
+  In: <measure width=164.67 number=42>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=69.22>
+
+  In: <measure width=164.67 number=42>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=5.00 default-x=12.00>
+
+  In: <measure width=164.67 number=44>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=0.00 default-x=69.22>
+
+  In: <measure width=164.67 number=44>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=81.66>
+
+  In: <measure width=176.21 number=47>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-20.00 default-x=143.11>
+
+  In: <measure width=176.21 number=47>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=81.25>
+
+  In: <measure width=175.25 number=53>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-20.00 default-x=142.34>
+
+  In: <measure width=175.25 number=53>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_4.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_4.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-nZZpyz'...
+Converting to `36_Études_mélodiques_op84_no_4.pdf'...
+Deleting `/tmp/lilypond-nZZpyz'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_4.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_4.midi': No such file or directory
+--------------------------------------------------------------
+--------------------------------------------------------------
+Build logs for Charles_Dancla/Opus_84
+Build Date : Tue Aug 18 00:26:58 IST 2020
+--------------------------------------------------------------
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_1.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_1.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_1.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+Layout output to `/tmp/lilypond-ujs63e'...
+Converting to `36_Études_mélodiques_op84_no_1.pdf'...
+Deleting `/tmp/lilypond-ujs63e'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_1.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_1.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_2.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_2.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_2.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-jeJT4d'...
+Converting to `36_Études_mélodiques_op84_no_2.pdf'...
+Deleting `/tmp/lilypond-jeJT4d'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_2.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_2.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_3.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_3.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_3.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][48]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-of1QK3'...
+Converting to `36_Études_mélodiques_op84_no_3.pdf'...
+Deleting `/tmp/lilypond-of1QK3'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_3.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_3.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_4.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=12.00>
+
+  In: <measure width=223.83 number=3>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-5.00 default-x=64.56>
+
+  In: <measure width=223.83 number=3>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=12.00>
+
+  In: <measure width=188.04 number=9>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-5.00 default-x=69.66>
+
+  In: <measure width=188.04 number=9>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=12.00>
+
+  In: <measure width=181.34 number=17>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=67.45>
+
+  In: <measure width=181.34 number=17>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=49.07>
+
+  In: <measure width=198.26 number=19>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=97.86>
+
+  In: <measure width=198.26 number=19>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=12.00>
+
+  In: <measure width=169.59 number=21>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-5.00 default-x=63.56>
+
+  In: <measure width=169.59 number=21>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-30.00 default-x=12.00>
+
+  In: <measure width=188.80 number=23>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-45.00 default-x=68.69>
+
+  In: <measure width=188.80 number=23>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=5.00 default-x=12.00>
+
+  In: <measure width=180.28 number=28>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=0.00 default-x=75.13>
+
+  In: <measure width=180.28 number=28>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=83.24>
+
+  In: <measure width=179.92 number=29>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-20.00 default-x=146.10>
+
+  In: <measure width=179.92 number=29>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=75.92>
+
+  In: <measure width=162.77 number=35>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=132.28>
+
+  In: <measure width=162.77 number=35>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-5.00 default-x=12.00>
+
+  In: <measure width=164.67 number=42>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-10.00 default-x=69.22>
+
+  In: <measure width=164.67 number=42>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=5.00 default-x=12.00>
+
+  In: <measure width=164.67 number=44>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=0.00 default-x=69.22>
+
+  In: <measure width=164.67 number=44>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=81.66>
+
+  In: <measure width=176.21 number=47>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-20.00 default-x=143.11>
+
+  In: <measure width=176.21 number=47>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1>
+
+  In: <notations >
+
+  In: <note default-y=-15.00 default-x=81.25>
+
+  In: <measure width=175.25 number=53>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note default-y=-20.00 default-x=142.34>
+
+  In: <measure width=175.25 number=53>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.1>
+
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_4.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_4.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-0LBMo9'...
+Converting to `36_Études_mélodiques_op84_no_4.pdf'...
+Deleting `/tmp/lilypond-0LBMo9'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_4.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_4.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_5.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_5.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_5.ly'
+Parsing...
+Interpreting music...[8][16][24][32]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-RGQyN3'...
+Converting to `36_Études_mélodiques_op84_no_5.pdf'...
+Deleting `/tmp/lilypond-RGQyN3'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_5.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_5.midi': No such file or directory
+musicxml2ly: Reading MusicXML from 36_Études_mélodiques_op84_no_6.musicxml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: Output to `36_Études_mélodiques_op84_no_6.ly'
+musicxml2ly: Converting to current version (2.19.82) notations ...
+GNU LilyPond 2.19.82
+Processing `36_Études_mélodiques_op84_no_6.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Layout output to `/tmp/lilypond-y3qsk2'...
+Converting to `36_Études_mélodiques_op84_no_6.pdf'...
+Deleting `/tmp/lilypond-y3qsk2'...
+Success: compilation successfully completed
+mv: cannot stat '36_Études_mélodiques_op84_no_6.mp3': No such file or directory
+mv: cannot stat '36_Études_mélodiques_op84_no_6.midi': No such file or directory
+--------------------------------------------------------------
